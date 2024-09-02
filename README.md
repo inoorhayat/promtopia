@@ -16,7 +16,7 @@ Promtopia is a full-stack web application built with Next.js, MongoDB, and NextA
 
 ## Demo
 
-A live demo of the project can be found [here](https://promtopia.vercel.app).
+A live demo of the project can be found [here](https://promtopia-k9mfi5got-inoorhayats-projects.vercel.app/).
 
 ## Features
 
